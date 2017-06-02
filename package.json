@@ -1,0 +1,24 @@
+{
+  "name": "chodejs",
+  "version": "1.0.0",
+  "description": "Chode up your web my making it thicker",
+  "main": "chode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfrancekovic/chodejs.git"
+  },
+  "keywords": [
+    "chode",
+    "bold",
+    "thick"
+  ],
+  "author": "Marko Francekovic <marko.francekovic@calyx.hr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mfrancekovic/chodejs/issues"
+  },
+  "homepage": "https://github.com/mfrancekovic/chodejs#readme"
+}
